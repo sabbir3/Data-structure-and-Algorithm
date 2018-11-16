@@ -7,7 +7,6 @@ int main()
 
     scanf("%lf",&r);
     pi=acos(-1.);
-    printf("pi=%lf\n",pi);
     area=pi*r*r;
 
     printf("%lf",area);
