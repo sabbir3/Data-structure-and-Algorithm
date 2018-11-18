@@ -26,5 +26,11 @@ int main()
         cout<<a<<endl;
     }
 
+
+    while( scanf("%d",&a)!=EOF && a){
+
+        cout<<a<<endl;
+    }
+
     return 0;
 }
